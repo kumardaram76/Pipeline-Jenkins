@@ -89,7 +89,7 @@ pipeline
             {
                 script
                 {
-                    echo 'Hello World'
+                    echo 'Hello kumar World '
                 }
             }
         }
